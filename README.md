@@ -19,14 +19,13 @@ Commission tracking for independent sales professionals, built to replace the Ex
 - **Status:** live with a pilot customer
 - **Stack:** React + Vite · Node.js + Express · PostgreSQL
 
-Both products are built with Claude Code: I write the specs and implementation plans, and use AI to move fast while owning the product decisions. Their source code is private.
+I own both products end to end: discovery, specs, product decisions, implementation and launch. Their source code is private.
 
 ## Toolbox
 
 - **Product:** discovery, prioritization, roadmapping, stakeholder communication
 - **Engineering:** TypeScript, React, React Native, Node.js, Bun, Kotlin, SQL, PostgreSQL
-- **Quality:** Playwright, end-to-end test automation
-- **AI:** Claude Code, Claude, ChatGPT
+- **Tools:** Playwright, Claude Code, Figma, Postman, Git
 
 ## Languages
 
